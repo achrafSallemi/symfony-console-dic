@@ -1,5 +1,5 @@
 {
-    "name": "acer/symfony-console",
+    "name": "achrafSallemi/symfony-console-dic",
     "authors": [
         {
             "name": "achrafsallemi",
@@ -7,7 +7,7 @@
         }
     ],
     "require" : {
-        "symfony/console": "2.0.*",
+        "symfony/console": "^3.3",
         "symfony/dependency-injection": "^3.3",
         "symfony/config": "^3.3",
         "symfony/yaml": "^3.3"
