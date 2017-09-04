@@ -1,0 +1,20 @@
+{
+    "name": "acer/symfony-console",
+    "authors": [
+        {
+            "name": "achrafsallemi",
+            "email": "achrafsallemi@yahoo.fr"
+        }
+    ],
+    "require" : {
+        "symfony/console": "2.0.*",
+        "symfony/dependency-injection": "^3.3",
+        "symfony/config": "^3.3",
+        "symfony/yaml": "^3.3"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "App\\": ""
+        }
+    }
+}
