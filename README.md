@@ -7,7 +7,7 @@ For more info, please check this https://symfony.com/doc/current/console.html
 git clone git@github.com:achrafSallemi/symfony-console-dic.git
 cd symfony-console-dic
 composer install
-php index.php  example:process type=hello --no-cleanup
+php index.php example:process type=hello --no-cleanup
 ~~~
 
 ### Structure
