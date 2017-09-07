@@ -1,6 +1,6 @@
 # Symfony-Console-DIC
 
-A simple application to create a Console application based on Dependency Injection Container of Symfony.
+A simple application to create a Console application based on Dependency Injection Container of Symfony. Your console commands can be used for any recurring task, such as cronjobs, imports, or other batch jobs.
 
 ## Usage
 ~~~
